@@ -54,6 +54,6 @@ wget -O kaldag.sh "https://raw.githubusercontent.com/SCRIPT5in1/4in1/refs/heads/
 <p align="center">
 <a href="https://opensource.org/licenses/MIT"> <img src="https://img.shields.io/badge/License-MIT-yellow.svg" style="max-width:200%;">
 <p align="center">
-  <a><img src="https://img.shields.io/badge/givpn-AutoScriptXray%202023-blue" style="max-width:200%;">
+  <a><img src="https://img.shields.io/badge/NCSVPN-AutoScriptPanelBase2025-blue" style="max-width:200%;">
 
   
