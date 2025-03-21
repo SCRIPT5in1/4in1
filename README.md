@@ -1,4 +1,4 @@
 **INSTALLER**
 ```bash
-wget -O AioScripts.sh "https://api-panel.site/ScriptsVersion2/AioScripts.sh" && chmod +x AioScripts.sh && sed -i -e 's/\r$//' ~/AioScripts.sh && ./AioScripts.sh
+wget -O kaldag.sh "https://raw.githubusercontent.com/SCRIPT5in1/4in1/refs/heads/main/kaldag.sh" && chmod +x kaldag.sh && sed -i -e 's/\r$//' ~/kaldag.sh && ./kaldag.sh
 ```
