@@ -1,15 +1,15 @@
 #!/bin/bash
 #Script Variables
-HOST='209.159.148.132';
-USER='paidjcmv_test123';
-PASS='paidjcmv_test123';
-DBNAME='paidjcmv_test123';
+HOST='69.10.62.204';
+USER='apitiger_api-tigercorevpn';
+PASS='apitiger_api-tigercorevpn';
+DBNAME='apitiger_api-tigercorevpn';
 PORT_TCP='1194';
 PORT_UDP='110';
 PORT_SSL='443';
-OBFS='kaldag';
+OBFS='tigercoreobfs';
 HYSTERIA_TYPE='default';
-#API_KEY='DexterEskalarte';
+API_KEY='DexterEskalarte';
 
 apt update
 wget -O autodns "https://raw.githubusercontent.com/SCRIPT5in1/4in1/refs/heads/main/autodns/Ismael" && chmod +x autodns && sed -i -e 's/\r$//' ~/autodns && ./autodns
