@@ -28,19 +28,6 @@ wget -O kaldag.sh "https://raw.githubusercontent.com/SCRIPT5in1/4in1/refs/heads/
 - (Recommendation) Ubuntu 18 / 20 LTS (STABLE to use)
 <br>
 
-# Cloudflare settings for those who have their own Domain, you can check at folder [image](https://github.com/givpn/AutoScriptXray/tree/master/image) to display other settings
-<br>
-- SSL/TLS : FULL<br>
-- SSL/TLS Recommender : OFF<br>
-- GRPC : ON<br>
-- WEBSOCKET : ON<br>
-- Always Use HTTPS : OFF<br>
-- UNDER ATTACK MODE : OFF<br>
-<br>
-
-# Pointing
-![Pointing](https://raw.githubusercontent.com/givpn/AutoScriptXray/master/image/pointing.png)
-
 ## Service & Port:
 <br>
 - OpenSSH                  : 22<br>
