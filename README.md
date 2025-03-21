@@ -28,8 +28,8 @@
 <br>
 - OpenVPN                  : 1194<br>
 - OpenSSH                  : 22<br>
-- SSH Websocket            : 80<br>
-- SSH SSL Websocket        : 443<br>
+- Websocket                : 80<br>
+- SSL Websocket            : 443<br>
 - SQUID PORT               : 8080<br>
 - HYSTERIA                 : 5666<br>
 - SLOWDNS                  : 2222<br>
