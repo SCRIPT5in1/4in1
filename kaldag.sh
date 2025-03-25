@@ -1,9 +1,9 @@
 #!/bin/bash
 #Script Variables
 HOST='69.10.62.204';
-USER='apitiger_api-tigercorevpn';
-PASS='apitiger_api-tigercorevpn';
-DBNAME='apitiger_api-tigercorevpn';
+USER='privateh5_privatehub';
+PASS='privateh5_privatehub';
+DBNAME='privateh5_privatehub';
 PORT_TCP='1194';
 PORT_UDP='110';
 PORT_SSL='443';
