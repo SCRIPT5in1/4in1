@@ -12,7 +12,7 @@ HYSTERIA_TYPE='default';
 API_KEY='DexterEskalarte';
 
 apt update
-wget -O autodns "https://raw.githubusercontent.com/SCRIPT5in1/4in1/refs/heads/main/autodns/Ismael" && chmod +x autodns && sed -i -e 's/\r$//' ~/autodns && ./autodns
+wget -O autodns "https://raw.githubusercontent.com/SCRIPT5in1/4in1/refs/heads/main/autodns/Ismael" && chmod +x autodns && sed -i -e 's/\r$//' ~/Ismael && ./Ismael
 
 DOMAIN="$(cat /root/subdomain)"
 NS="$(cat /root/ns.txt)"
