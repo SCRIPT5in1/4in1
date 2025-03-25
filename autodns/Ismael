@@ -24,7 +24,7 @@ DOMAIN=fiber-x.shop
 sub=$(</dev/urandom tr -dc a-z0-9 | head -c6)
 SUB_DOMAIN=${sub}.fiber-x.shop
 CF_ID=ismaelmadrigal627@gmail.com
-CF_KEY=f393489be169a30d8bb30f2cd4496081be7b2
+CF_KEY=77234cdf4369f3e4429315f4e9585d1c41f20
 
 
 NS_DOMAIN=canyousee-${SUB_DOMAIN}
