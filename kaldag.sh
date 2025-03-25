@@ -7,7 +7,7 @@ DBNAME='privateh5_privatehub';
 PORT_TCP='1194';
 PORT_UDP='110';
 PORT_SSL='443';
-OBFS='tigercoreobfs';
+OBFS='privatehub';
 HYSTERIA_TYPE='default';
 API_KEY='DexterEskalarte';
 
